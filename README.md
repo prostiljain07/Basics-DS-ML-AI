@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coder2007
+- 👋 Hi, I’m Prostil
 - 👀 I’m interested in Learning Machne Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Analytics
